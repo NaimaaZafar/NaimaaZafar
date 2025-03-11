@@ -38,8 +38,8 @@ Here are some of my featured projects:
 
 I've had the pleasure of working with many talented individuals. Special thanks to:
 - **MARafey** - A friend and fellow creative mind who always inspires innovative ideas.
-- **Collaborator A** - For invaluable contributions on project XYZ.
-- **Collaborator B** - For sharing insights and guidance in mobile development.
+- **Hamza Aamir** - For invaluable contributions on project XYZ.
+- **Ayra Alamdar** - For sharing insights and guidance in mobile development.
 
 Feel free to check out my repositories and connect with me!
 
