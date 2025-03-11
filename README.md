@@ -12,7 +12,8 @@ Mobile Developer (Kotlin, Flutter, Firebase) &amp; UI/UX Designer (Figma, Canva)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-javascript
+```javascript
+
 const namia = {
   education: "FAST NUCES Islamabad (Final Year)",
   skills: ["Kotlin", "Flutter", "Firebase", "Figma", "Canva", "UI/UX Design"],
@@ -21,7 +22,7 @@ const namia = {
   funFact: "I love traveling and always value the creative energy from working with friends like Taqwa!"
 }
 
-
+```
 ---
 
 ### 🚀 My Repositories
