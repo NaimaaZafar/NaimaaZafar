@@ -7,8 +7,8 @@ Mobile Developer (Kotlin, Flutter, Firebase) &amp; UI/UX Designer (Figma, Canva)
 </em></p>
 
 [![Twitter: NamiaZafar](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
-[![Linkedin: namiazafar](https://img.shields.io/badge/-namiazafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin/)](https://www.linkedin.com/in/your_linkedin/)
-[![GitHub Namia](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/yourusername)
+[![Linkedin: namiazafar](https://img.shields.io/badge/-namiazafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin/)](https://www.linkedin.com/in/naima-zafar/)
+[![GitHub Namia](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/NaimaaZafar)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
