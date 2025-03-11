@@ -1,49 +1,47 @@
-# Hi there, I'm Namia Zafar! 👋
+<h2> Hi, I'm Namia Zafar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-![Profile Banner](https://your-image-url.com/banner.png)
+<p><em>
+Final Year Student at <a href="https://nu.edu.pk/">FAST NUCES Islamabad</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+Mobile Developer (Kotlin, Flutter, Firebase) &amp; UI/UX Designer (Figma, Canva) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-## About Me
+[![Twitter: NamiaZafar](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
+[![Linkedin: namiazafar](https://img.shields.io/badge/-namiazafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin/)](https://www.linkedin.com/in/your_linkedin/)
+[![GitHub Namia](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/yourusername)
 
-I am a final-year student at FAST NUCES Islamabad, specializing in Mobile Development and UI/UX Design. My passion lies in creating seamless and intuitive mobile applications that enhance user experiences.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- *🌱 Currently Learning:* Advanced Flutter techniques and exploring AI integrations in mobile apps.
-- *💬 Ask Me About:* Mobile development, UI/UX design, and my travel experiences.
-- *📫 How to Reach Me:* [namiazafar@example.com](mailto:namiazafar@example.com)
+javascript
+const namia = {
+  education: "FAST NUCES Islamabad (Final Year)",
+  skills: ["Kotlin", "Flutter", "Firebase", "Figma", "Canva", "UI/UX Design"],
+  interests: ["Traveling", "Innovative Mobile Solutions", "Creative Design"],
+  collaborations: ["Collaborated with talented peers & mentors on exciting projects"],
+  funFact: "I love traveling and always value the creative energy from working with friends like Taqwa!"
+}
 
-## Technologies & Tools
 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
-## GitHub Stats
+### 🚀 My Repositories
 
-![Namia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+Here are some of my featured projects:
+- [**Project One**](https://github.com/yourusername/project-one) - A mobile application built with Flutter that emphasizes seamless UI/UX.
+- [**Project Two**](https://github.com/yourusername/project-two) - A Kotlin-based app that leverages Firebase for real-time data handling.
+- [**Design Portfolio**](https://github.com/yourusername/design-portfolio) - A collection of UI/UX design projects showcasing my work in Figma and Canva.
 
-## Featured Projects
+---
 
-### [Project One](https://github.com/yourusername/project-one)
-A brief description of Project One, highlighting its features and technologies used.
+### 🤝 People I’ve Collaborated With
 
-### [Project Two](https://github.com/yourusername/project-two)
-A brief description of Project Two, highlighting its features and technologies used.
+I've had the pleasure of working with many talented individuals. Special thanks to:
+- **Taqwa** - A friend and fellow creative mind who always inspires innovative ideas.
+- **Collaborator A** - For invaluable contributions on project XYZ.
+- **Collaborator B** - For sharing insights and guidance in mobile development.
 
-## Collaborations
+Feel free to check out my repositories and connect with me!
 
-I have had the pleasure of collaborating with the following individuals:
+---
 
-- [Taqwa](https://github.com/taqwa) - Worked together on [Collaborative Project](https://github.com/yourusername/collaborative-project), focusing on [specific aspects].
-
-## Interests
-
-- *✈ Traveling:* Exploring new cultures and destinations.
-- *👯‍♀ Friends:* Cherishing moments with friends, especially [Taqwa](https://github.com/taqwa).
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namiazafar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/namiazafar)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi</b>, drop me a message!</em>
