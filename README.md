@@ -6,7 +6,7 @@ Final Year Student at <a href="https://nu.edu.pk/">FAST NUCES Islamabad</a> <img
 Mobile Developer (Kotlin, Flutter, Firebase) &amp; UI/UX Designer (Figma, Canva) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: NamiaZafar](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@naimazafar)
 [![Linkedin: namiazafar](https://img.shields.io/badge/-namiazafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin/)](https://www.linkedin.com/in/naima-zafar/)
 [![GitHub Namia](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/NaimaaZafar)
 
@@ -37,7 +37,7 @@ Here are some of my featured projects:
 ### 🤝 People I’ve Collaborated With
 
 I've had the pleasure of working with many talented individuals. Special thanks to:
-- **Taqwa** - A friend and fellow creative mind who always inspires innovative ideas.
+- **MARafey** - A friend and fellow creative mind who always inspires innovative ideas.
 - **Collaborator A** - For invaluable contributions on project XYZ.
 - **Collaborator B** - For sharing insights and guidance in mobile development.
 
