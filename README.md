@@ -28,9 +28,9 @@ const namia = {
 ### 🚀 My Repositories
 
 Here are some of my featured projects:
-- [**Project One**](https://github.com/yourusername/project-one) - A mobile application built with Flutter that emphasizes seamless UI/UX.
-- [**Project Two**](https://github.com/yourusername/project-two) - A Kotlin-based app that leverages Firebase for real-time data handling.
-- [**Design Portfolio**](https://github.com/yourusername/design-portfolio) - A collection of UI/UX design projects showcasing my work in Figma and Canva.
+- [**Hateful Memes Detection**](https://github.com/NaimaaZafar/Hateful-Memes-ML-Project) - Implementation of a multimodal machine learning system for detecting hateful content in memes using the Hateful Memes dataset from Meta AI.
+- [**MentorMe**](https://github.com/NaimaaZafar/MentorMe) - A Kotlin-based mentor-mentee platform supporting real-time communication and matching features.
+- [**CampusBites**](https://github.com/NaimaaZafar/CampusBites) - A role-based management system for university cafe operations including ordering, inventory, and reporting.
 
 ---
 
@@ -38,8 +38,8 @@ Here are some of my featured projects:
 
 I've had the pleasure of working with many talented individuals. Special thanks to:
 - **MARafey** - A friend and fellow creative mind who always inspires innovative ideas.
-- **Hamza Aamir** - For invaluable contributions on project XYZ.
-- **Ayra Alamdar** - For sharing insights and guidance in mobile development.
+- **Hamza Aamir** - For invaluable contributions on project CaptureCart.
+- **Ayra Alamdar** - For sharing insights and guidance in CampusBites and Data Structures Project.
 
 Feel free to check out my repositories and connect with me!
 
